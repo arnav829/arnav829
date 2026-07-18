@@ -12,15 +12,11 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://mail.google.com/mail/u/0/?fs=1&to=arnavgupta0011@gmail.com&tf=cm" height="45"/>
-</a>
-
-<a href="https://github.com/arnav829">
+<a href="https://github.com/arnav829" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://https://portfolio-3nsqiqvg7-arnavs-projects-9c134480.vercel.app/">
+<a href="https://https://portfolio-3nsqiqvg7-arnavs-projects-9c134480.vercel.app/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
 </a>
 </p>
