@@ -23,14 +23,6 @@
 
 ---
 
-## 💭 Philosophy
-
-> **Cache > Compute**
-
-> **First make it work. Then make it right. Then make it fast.**
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
