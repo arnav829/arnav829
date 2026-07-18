@@ -1,26 +1,11 @@
-# Hi there 👋 I'm Arnav Gupta
+# Hi there 👋 I'm Arnav 
 
 ### 💻 Computer Science Student | Full-Stack Developer |
 
 ---
-
-## ⚡ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,html,css,react,nextjs,vite,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,redux,git,github,postman,vscode,idea,linux,docker,vercel,netlify,npm,figma,cloudflare&theme=dark&perline=10" />
 </p>
-
----
-
-## 📚 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- System Design
-- Backend Scalability
-- DevOps
-- CI/CD
-- Docker & Kubernetes
-
 ---
 
 ## 🌐 Connect with Me
