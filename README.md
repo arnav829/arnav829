@@ -16,8 +16,5 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://https://portfolio-3nsqiqvg7-arnavs-projects-9c134480.vercel.app/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
-</a>
 </p>
 
