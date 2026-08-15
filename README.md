@@ -14,14 +14,14 @@ I'm a Computer Science student passionate about building modern web applications
 
 ---
 
-## 💡 What I Do
+## What I Do
 
-- 💻 Build Full-Stack Web Applications
-- ⚛️ Develop responsive UIs with React & Next.js
-- 🚀 Create REST APIs using Node.js & Express
-- 🗄️ Design databases with MongoDB & MySQL
-- 🧩 Practice Data Structures & Algorithms
-- 🌱 Continuously learning new technologies
+- Build Full-Stack Web Applications
+- Develop responsive UIs with React & Next.js
+- Create REST APIs using Node.js & Express
+- Design databases with MongoDB & MySQL
+- Practice Data Structures & Algorithms
+- Continuously learning new technologies
 
 ---
 
